@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "slither.io 몰겜크크크",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "slither.png"
+    }
+  }
+}
